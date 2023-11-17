@@ -45,7 +45,7 @@ public class Main2 {
 		int i,codiceProdotto,conta;
 		
 		do
-		{
+		{ 
 		System.out.println("inserisci il codice del prodotto");
 		codiceProdotto=Integer.parseInt(sc.nextLine());
 		
